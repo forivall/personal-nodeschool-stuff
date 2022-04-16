@@ -1,0 +1,5 @@
+/node_modules
+/.config/code-server
+/.npm
+/.local
+/lost+found
